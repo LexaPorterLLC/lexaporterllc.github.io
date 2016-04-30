@@ -1,2 +1,2 @@
-# LexaPorter Public Website
-This repo holds LexaPorter's public site.
+# Lexaporter Public Website
+This repo holds Lexaporter's public site.
